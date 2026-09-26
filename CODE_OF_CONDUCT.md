@@ -1,54 +1,46 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+## Purpose
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+We as maintainers, contributors, and leaders of the Secure Backup project pledge to make participation in our community a professional, respectful, and constructive experience for everyone, regardless of background, level of experience, education, nationality, personal appearance, race, religion, or language.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, and productive environment for all participants.
 
-## Our Standards
+---
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## Standards of Conduct
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+Examples of behavior that contributes to a positive and productive environment include:
+
+- Demonstrating professional courtesy, patience, and constructive communication.
+- Respecting differing technical viewpoints, architectural opinions, and constructive critique.
+- Gracefully accepting constructive feedback and acknowledging technical mistakes.
+- Focusing on what is best for the project, code quality, and the broader user community.
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Offensive, derogatory, or discriminatory language and comments.
+- Personal, ad hominem, or political attacks.
+- Public or private harassment, intimidation, or disruptive behavior.
+- Publishing others' private information, such as personal contact details, without explicit consent.
+- Any conduct that could reasonably be considered unprofessional, inappropriate, or harmful to collaborative engineering.
+
+---
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Project maintainers are responsible for clarifying and enforcing acceptable standards of professional conduct and will take appropriate corrective action in response to any behavior deemed inappropriate, disruptive, or harmful to the community.
 
-## Enforcement Guidelines
+Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, pull requests, and issues that violate these standards.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+---
 
-1. **Correction**
-2. **Warning**
-3. **Temporary Ban**
-4. **Permanent Ban**
+## Reporting Issues
+
+Instances of abusive, disrespectful, or otherwise unacceptable behavior may be reported privately to the project maintainer via the contact information on their GitHub profile. All reports will be reviewed and addressed promptly, fairly, and with strict confidentiality.
+
+---
+
+## Attribution
+
+This Code of Conduct establishes professional community standards focused on respectful engineering collaboration.
